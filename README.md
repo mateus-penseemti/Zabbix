@@ -1,2 +1,2 @@
 # zabbix
-Zabbix
+Repositório para compartilhar templates do Zabbix.
