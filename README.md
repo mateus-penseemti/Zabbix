@@ -6,7 +6,7 @@
 
 📢 Minhas outras redes sociais:
 
-✔ Blog           - https://penseemti.com.br/
+✔ Blog           - https://penseemti.com.br
 ✔ Instagram - http://bit.ly/instapenseemti
 ✔ Twitter       - http://bit.ly/tweetpenseemti
 
