@@ -3,7 +3,7 @@
 ❕ Este é repositório onde eu compartilho os templates de monitoramento que eu utilizo do Zabbix.
 
 
-✅ Se junte a nós na comunidade do Zabbix lá no Telegram.
+✅ Se junte a nós na comunidade do Zabbix lá no Telegram: https://t.me/ZabbixBrasil
 
 
 📢 Minhas outras redes sociais:
