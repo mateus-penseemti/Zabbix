@@ -1,6 +1,6 @@
 # Zabbix
 
-❕ Este é repositório onde eu compartilho os templates de monitoramento que eu utilizo do Zabbix.
+❕ Este é repositório onde eu compartilho os templates de monitoramento que eu utilizo no Zabbix.
 
 
 ✅ Se junte a nós na comunidade do Zabbix lá no Telegram: https://t.me/ZabbixBrasil
