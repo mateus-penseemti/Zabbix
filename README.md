@@ -1,7 +1,7 @@
 
 ![alt text](https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png)
 
-❕ Este é repositório onde eu compartilho os templates de monitoramento que eu utilizo no Zabbix.
+❕ Este é repositório onde eu compartilho meu conhecimento sobre Zabbix.
 
 
 ✅ Se junte a nós na comunidade do Zabbix lá no Telegram: https://t.me/ZabbixBrasil
